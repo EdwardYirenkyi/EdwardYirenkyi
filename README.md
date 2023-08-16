@@ -1,0 +1,7 @@
+- This program (rock, paper,scissors) uses basic c++ features, including arrays, conditional statements, loops, and random number generation.
+- It demonstrates the use of the "srand" and "rand" functions to generate random numbers.
+- The code follows a structured approach with a "do-while" loop to ensure continuous gameplay until the user decides to exit.
+- Project discription: Rock, Paper, Scissors.
+- Index number: UEB3246822
+- Program: Information Technology (class A)
+- Name: Yirenkyi Asare Edward
